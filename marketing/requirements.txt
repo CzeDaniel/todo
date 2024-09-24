@@ -1,0 +1,6 @@
+pandas
+pytrends
+tweepy
+newsapi-python
+matplotlib
+Pillow
